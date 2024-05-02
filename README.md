@@ -1,7 +1,7 @@
 ### Olá,eu sou o Thullyo cezar
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estou estudando HTML,CSS,JavaScrit,Wordpress
+- 🌱 Estou estudando HTML,CSS,JavaScrit.
 - 😁 Pronouns:ele/dele
 
 <div align="center">
