@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, sou Thullyo Cezar</h1>
 <h3 align="center">Um desenvolvedor Front-end apaixonado de Pernambuco, Brasil</h3>
 
-- 📫 Como me contactar: **www.linkedin.com/in/thullyo-cezar**
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/thullyo-cezar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Thullyo Cezar" height="30" width="40" /></a>
